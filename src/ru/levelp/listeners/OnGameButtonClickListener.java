@@ -27,3 +27,6 @@ public class OnGameButtonClickListener implements ActionListener {
 
     }
 }
+
+//    три равны и хоть одна не пустая, проверить одну на Х/О
+// передать ссылку на массив кнопок в онгеймкликлистенер
